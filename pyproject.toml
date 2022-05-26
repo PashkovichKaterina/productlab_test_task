@@ -11,6 +11,7 @@ django-environ = "^0.8.1"
 djangorestframework = "^3.13.1"
 aiohttp = "^3.8.1"
 openpyxl = "^3.0.10"
+requests = "^2.27.1"
 
 [tool.poetry.dev-dependencies]
 
